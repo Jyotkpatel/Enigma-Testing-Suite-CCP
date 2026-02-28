@@ -17,4 +17,5 @@ Rehyansh first commit.
 Prince first commit.
 daksh first commit
 khush first commit.
+Jyot first commit.
 
